@@ -7,7 +7,7 @@ Combina el poder de **Nmap** para el escaneo de puertos y servicios con el anál
 
 ## ✨ Características
 
-- **Interfaz moderna** con [`ttkbootstrap`](https://github.com/israel-dryer/ttkbootstrap).
+- **Interfaz moderna** con [`ttkbootstrap`](https://ttkbootstrap.readthedocs.io/en/latest/styleguide/button).
 - **Escaneo configurable**: selección de cantidad de puertos, tipo de protocolo (TCP/UDP) y perfil de velocidad.
 - **Detección de vulnerabilidades** con script [`vulners`](https://github.com/vulnersCom/nmap-vulners).
 - **Análisis avanzado con IA**:
